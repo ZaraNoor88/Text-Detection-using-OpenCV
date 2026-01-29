@@ -12,3 +12,4 @@ Text detection is widely used across different fields like **Autonomous Vehicles
 
 <img width="1182" height="427" alt="image" src="https://github.com/user-attachments/assets/2afe2ef7-3ba2-499a-b519-56624e4333ae" />
 
+Check the model at: https://huggingface.co/spaces/Zara888/text_detection
